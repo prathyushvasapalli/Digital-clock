@@ -4,8 +4,8 @@ body{
     background-color: grey;
     height: 100vh;
     display : flex;
-    background: URL(IMG-20250410-WA0002.jpg);
-    
+    background: URL(IMG-20250410-WA0002.jpg)no-repeat center center;
+    background-size: cover;
     justify-content: center;
    align-items: center;
     margin: 0;
